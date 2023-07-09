@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jagdeep Singh, a passionate programmer dedicated to building high-quality software solutions. I am curious to learn new technolgies and a self learner. 
 - 👀 I'm currently an Android developer passionate about creating innovative and user-friendly mobile applications.
-- This is where I showcase my projects, contributions, and ongoing work in the world of programming.
 
 <!---
 jagdeepsingh27/jagdeepsingh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
