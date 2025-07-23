@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Jagdeep Singh, a passionate programmer dedicated to building high-quality software solutions. I am curious to learn new technolgies and a self learner. 
-- 👀 I'm currently an Android developer passionate about creating innovative and user-friendly mobile applications.
+- 👋 Hi, I’m Jagdeep Singh – a passionate programmer with over 4 years of experience in mobile app development.
+- 🚀 I specialize in **Android (Kotlin/Java)**, **iOS (Swift/SwiftUI)**, and **Flutter**, crafting high-quality, intuitive, and performant mobile applications.
+- 🌱 I’m a self-learner, always curious to explore new technologies and improve my skill set.
+- 💡 I enjoy building apps that solve real-world problems and deliver great user experiences.
 
 <!---
 jagdeepsingh27/jagdeepsingh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
